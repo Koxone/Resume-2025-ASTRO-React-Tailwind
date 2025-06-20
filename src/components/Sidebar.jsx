@@ -2,7 +2,7 @@ import TechnicalSkills from "./TechnicalSkills";
 import Languages from "./Languages";
 import Education from "./Education";
 import CoreCompetencies from "./CoreCompetencies";
-import GitHubLinks from "./GithubLinks";
+import GitHubLinks from "./GitHubLinks";
 
 const Sidebar = () => {
   return (
