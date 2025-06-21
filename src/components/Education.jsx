@@ -1,7 +1,7 @@
 const Education = () => {
   const educationItems = [
     {
-      degree: "Full Stack Web Development Course",
+      degree: "Full Stack Web Development Certification",
       institution: "WGU/EDX",
       details: "Currently Enrolled",
     },
