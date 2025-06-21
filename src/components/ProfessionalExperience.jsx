@@ -24,6 +24,7 @@ const ProfessionalExperience = () => {
       description:
         "Founded and operated company dedicated to cryptocurrency mining and software development. Managed entire operation from equipment maintenance to software optimization.",
       achievements: [
+        "I was responsible for both purchasing and importing equipment directly from suppliers in China.",
         "Modified equipment operating systems to achieve monthly mining goals",
         "Managed complete technical infrastructure and operations",
       ],
