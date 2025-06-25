@@ -18,8 +18,10 @@ const ProfessionalSummary = () => {
         <br />
         <span className="font-semibold text-neutral-900">
           Accomplished Restaurant Chief of Operations with over 10 years of
-          experience, a proven ability to lead teams of 50+ staff members, and a
-          track record of generating monthly revenues exceeding $500,000 USD.
+          experience, a proven ability to led teams of up to 100 people in
+          high-demand environments in coordination with the executive/management
+          team, and a track record of generating monthly revenues exceeding
+          $500,000 USD.
         </span>{" "}
         Passionate about clean UI/UX, scalable architecture, and continuous
         learning. Known for strong communication skills and the ability to
