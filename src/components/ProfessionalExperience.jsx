@@ -3,17 +3,31 @@ import JobExperience from "./JobExperiences";
 const ProfessionalExperience = () => {
   const jobs = [
     {
-      title: "Chief of Operations",
-      company: "Cvche & Grill San Angel - Fine Dining Restaurant",
-      location: "Ciudad de México",
-      duration: "January 2023 - January 2024",
+      title: "Co-Owner & Operator – Small Restaurant Startup",
+      company: "Brahma Steakhouse & Lounge",
+      location: "Atlanta, Georgia, United States",
+      duration: "2024 - 2025",
       description:
-        "Collaborated with management team in developing concept for new restaurant group. Led comprehensive operational setup including supplier agreements, staff training, and administrative foundation establishment.",
+        "Relocated from Mexico to Atlanta, USA for a two-year professional break focused on personal and professional growth. Co-founded a small neighborhood restaurant with a business partner, holding a minority ownership stake.",
       achievements: [
-        "Managed 50+ staff members across multiple departments (floor, kitchen, bar, storage, entrance)",
-        "Achieved monthly revenue of $10 million pesos ($600,000 USD)",
-        "Established supplier relationships for meat, glassware, groceries, and linens",
-        "Developed internal audit controls and administrative systems",
+        "Managed daily operations for a 50-seat establishment",
+        "Oversaw procurement, hiring, menu design, and regulatory compliance",
+        "Gained firsthand experience navigating U.S. supplier systems and labor regulations",
+        "Adapted operational strategies to fit the local market and customer base",
+      ],
+    },
+    {
+      title: "Chief of Operations",
+      company: "Cvche & Grill San Ángel – Fine Dining Restaurant",
+      location: "Mexico City, Mexico",
+      duration: "2023",
+      description:
+        "Led the restaurant project from construction to full operation, overseeing all aspects of launch including vendor sourcing, menu development, pricing strategy, cost analysis, and operational planning.",
+      achievements: [
+        "Managed recruitment, onboarding, and training of 50+ staff across all departments",
+        "Created internal policies, procedures, and administrative systems for long-term stability",
+        "Negotiated supplier contracts for meat, produce, glassware, linens, and inventory",
+        "Delivered operational performance reports directly to stakeholders and partners",
       ],
     },
     {
@@ -31,42 +45,29 @@ const ProfessionalExperience = () => {
     },
     {
       title: "General Manager",
-      company: "Sonora Grill Prime Artz - Fine Dining Restaurant",
-      location: "Ciudad de México",
-      duration: "January 2019 - January 2023",
+      company: "Sonora Grill Group - Prime Artz (Fine Dining)",
+      location: "Mexico City, Mexico",
+      duration: "January 2019 - January 2022",
       description:
-        "Led comprehensive restaurant operations managing large-scale teams and achieving significant revenue targets through strategic leadership and operational excellence.",
+        "Led full-service restaurant operations with a focus on team leadership, financial performance, and operational excellence in a high-end dining environment.",
       achievements: [
         "Supervised 50+ team members across all operational departments",
-        "Generated monthly revenue of $10 million pesos ($600,000 USD)",
+        "Achieved monthly revenue of $10 million pesos (~$600,000 USD)",
         "Conducted daily and weekly accounting assessments",
-        "Implemented cost analysis for F&B operations",
-      ],
-    },
-    {
-      title: "General Manager",
-      company: "Barezzito Tuxtla",
-      location: "Tuxtla Gutierrez, Chiapas",
-      duration: "October 2018 - January 2019",
-      description:
-        "Oversaw establishment completion and standardized brand operations for new franchise location.",
-      achievements: [
-        "Led team of 80 across diverse operational roles",
-        "Implemented comprehensive training programs for all departments",
-        "Performed thorough F&B cost analysis and ROI optimization",
+        "Implemented food and beverage cost control strategies and operational audits",
       ],
     },
     {
       title: "Jr Manager → Regional Manager",
       company: "Barezzito - Multiple Locations",
       location: "Mexico City & Leon, Guanajuato",
-      duration: "June 2011 - September 2018",
+      duration: "June 2010 - September 2019",
       description:
-        "Progressed through management roles across multiple restaurant locations, consistently achieving sales targets and operational excellence.",
+        "Progressed from server assistant to Regional Manager over a 9-year career, ultimately overseeing operations across 10 restaurants in 6 cities.",
       achievements: [
-        "Managed teams of 40-50 staff members across various locations",
-        "Executed daily promotional activities with PR teams",
-        "Achieved weekly sales goals through strategic floor management",
+        "Led and mentored teams ranging from 20 to over 100 staff members",
+        "Ensured consistent service standards and operational efficiency across all locations",
+        "Played a key role in staff development, local strategy execution, and cross-department coordination",
       ],
     },
   ];
