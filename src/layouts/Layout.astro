@@ -15,6 +15,16 @@ import "../styles/globals.css";
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Resume</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GQK5P06WRR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-GQK5P06WRR");
+    </script>
   </head>
   <body>
     <slot />
