@@ -1,87 +1,79 @@
-# Juan Carlos de León Ozuna  
-**Full-Stack Software Engineer**  
+# Juan Carlos de León Ozuna – Digital Resume
 
-**Email:** admin@koxland.net  
-**Phone (US):** +1 (470) 209-1261  
-**WhatsApp:** +1 (470) 209 1261  
-**Location:** Mexico City, Mexico  
+**Full-Stack Software Engineer Student | Former Operations Executive**
 
----
-
-## Executive Summary
-Distinguished leader with **8+ years** steering hospitality, blockchain and technology ventures. Proven record of scaling multi-million-dollar operations, directing cross-functional teams of 80+, and driving P&L accountability. Currently spearheading digital-transformation projects while deepening full-stack JavaScript expertise to fuse operational excellence with cutting-edge tech.
+📍 **Location:** Mexico City, Mexico
+📧 **Email:** [admin@koxland.net](mailto:admin@koxland.net)
+📱 **Phone/WhatsApp:** +52 1 558 705 8858
+🔗 [Portfolio](https://koxland.dev) | [Resume](https://resume.koxland.dev) | [LinkedIn](https://www.linkedin.com/in/carlos-de-leon-21580635b)
 
 ---
 
-## Core Competencies
+## 📝 Executive Summary
 
-| Leadership & Strategy | Technology & Innovation | Operations & Finance |
-|-----------------------|-------------------------|----------------------|
-| Executive Leadership (Expert) | Full-Stack Development (Advanced) | P&L Management (Expert) |
-| Strategic Planning (Expert) | JavaScript / React (Advanced) | Cost Optimisation (Expert) |
-| Team Development (Expert) | Blockchain Technology (Proficient) | Process Improvement (Expert) |
-| Change Management (Advanced) | System Architecture (Proficient) | Quality Assurance (Advanced) |
+Full-stack software engineering student with a strong background in high-level operations management, leading teams of 100+ with \$1.5M USD monthly revenues and consistent 32% profit margins. Now focused on building **user-friendly, scalable frontend applications** with React, Next.js, Astro, Tailwind CSS, and Firebase, combining operational excellence with technical execution.
 
 ---
 
-## Professional Experience
+## 💡 Core Competencies
 
-### Chief of Operations — Cvche & Grill San Ángel, Premium Dining Group  
-*Mexico City • Mar 2023 – Jun 2023*  
-- Led strategic development and launch of a high-end fine-dining concept; partnered with C-suite on market positioning and SOPs.  
-- Built premium supplier ecosystem (ingredients, luxury serviceware) and rigorous audit frameworks.  
-- **Key achievement:** orchestrated full-cycle recruitment & training for all departments, ensuring 100 % operational readiness on opening day.  
-
----
-
-### Founder & Chief Technology Officer — Kooxland Inc.  
-*Mexico City (Remote) • 2022 – 2023*  
-- Established blockchain-mining firm; owned infrastructure, custom OS builds and uptime for a 100-GPU rig farm.  
-- Engineered proprietary optimisation scripts that consistently exceeded monthly hash-rate targets while lowering power consumption.  
-- Drove product roadmap for internal software tools supporting analytics and remote fleet management.  
+* Frontend & Full-stack Development
+* API Integration & Software Infrastructure
+* Strategic Operations & Team Leadership
+* Cost Analysis & P\&L Management
 
 ---
 
-### General Manager — Sonora Grill Prime Artz  
-*Mexico City • Jan 2019 – Jan 2023*  
-- Directed day-to-day operations for a flagship fine-dining venue; managed 50+ staff across culinary, FOH and facilities.  
-- Deployed data-driven performance dashboards; maintained **US $600 K+ monthly revenue** and 92 % guest-satisfaction score.  
-- Instituted strict cash-control and inventory systems, cutting variance to < 0.5 %.  
+## 🛠️ Technical Toolkit
+
+JavaScript (ES2023), React 19, Next.js 14, Astro, Tailwind CSS, Firebase, Git/GitHub, API Integration, Linux Administration, Bash/PowerShell.
 
 ---
 
-### Regional General Manager — Barezzito Restaurant Group  
-*Multiple cities (MX) • Jun 2015 – Jan 2019*  
-- Oversaw multiple nightlife & entertainment venues in Mexico City, Chiapas and Guanajuato; teams up to 80.  
-- Standardised brand guidelines and training programs for franchise expansion; launched new locations that hit break-even in 10 weeks.  
-- Improved weekly sales by 12 % on average via dynamic pricing and targeted street-level activations.  
+## 💼 Professional Experience
+
+### Development Intern – Sacbé Transfers (2024–Present)
+
+Developing and structuring web interfaces using React and Tailwind for the tourism transportation sector, implementing dynamic coupon features with API integration, Google Wallet, and Apple Wallet.
+
+### Chief of Operations – CVCHE (2023)
+
+Led restaurant launch from construction to full operation, overseeing vendor sourcing, menu development, pricing, cost analysis, and staff management for 50+ team members.
+
+### Manager – Sonora Grill Group (2019–2022)
+
+Managed restaurant operations with 50+ staff, generating \$600K USD monthly revenue, overseeing accounting and implementing cost analysis for F\&B operations.
+
+### General Manager – Grupo Impulza (2010–2019)
+
+Progressed from waiter to Regional Manager, overseeing 7 restaurants in 3 cities, managing teams of 20–100+, ensuring operational efficiency, profitability, and consistent service standards.
 
 ---
 
-## Education
+## 🎓 Education
 
-| Program | Institution | Status / Year |
-|---------|-------------|---------------|
-| **Full-Stack Engineer Certification** | Western Governors University | *Currently enrolled* |
-| **Front-End Web Developer Specialisation** | Western Governors University | Completed |
-| **Bachelor’s in English Language Teaching** | Universidad Autónoma de Chiapas (UNACH) | Tuxtla Gutiérrez, MX |
-
-Additional professional courses  
-- **CS50’s Web Programming with Python & JavaScript — HarvardX** *(in-progress, 2025)*  
-- **Complete Full-Stack Web Developer — Dr Angela Yu (Udemy)** *(in-progress, 2025)*  
+* **Full-Stack Engineering Certificate – Western Governors University (2025–2026)**
+* Additional certifications in Version Control, JavaScript, HTML/CSS, Frontend Development.
 
 ---
 
-## Languages
-- **Spanish:** Native  
-- **English:** C1 Advanced  
-- **Portuguese:** A2 Elementary  
+## 🌎 Languages
+
+* Spanish (Native)
+* English (Professional Working)
+* Portuguese (Elementary)
 
 ---
 
-## Technical Toolkit
-JavaScript (ES 2023) • React 18 • Next.js 14 • Firebase (Auth & Firestore) • Tailwind CSS • Git / GitHub • Linux server admin • Bash & PowerShell • GPU-rig hardware tuning
+## 📂 Featured Projects
+
+* **Sacbé Tours:** Booking platform for Cancun/Riviera Maya tours.
+* **KoxNotes:** Note-taking app with Firebase sync.
+* **TicTacToe React:** Mobile-friendly scalable game.
+* **Planet Facts:** Educational PWA.
+
+See full project portfolio at [GitHub](https://github.com/Koxone).
 
 ---
 
-> **References & project portfolio available upon request.**
+> **References available upon request.**
