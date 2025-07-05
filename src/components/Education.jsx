@@ -2,13 +2,13 @@ const Education = () => {
   const educationItems = [
     {
       degree: "Full Stack Web Development Certification",
-      institution: "WGU/EDX",
-      details: "Currently Enrolled",
+      institution: "WGU / edX",
+      details: "Enrolled (2025)",
     },
     {
-      degree: "English Language Teaching (Incomplete)",
-      institution: "UNACH",
-      details: "Tuxtla Gutierrez, Chiapas",
+      degree: "Bachelor’s in English Language Teaching (Incomplete, 2011)",
+      institution: "Universidad Autónoma de Chiapas (UNACH)",
+      details: "Tuxtla Gutiérrez, Chiapas",
     },
   ];
 

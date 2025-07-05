@@ -11,22 +11,20 @@ const ProfessionalSummary = () => {
         <span className="font-semibold text-neutral-900">
           Frontend Development
         </span>
-        , particularly experienced with{" "}
+        , with experience using{" "}
         <span className="font-semibold text-neutral-900">
-          React, Next.js, ASTRO, Tailwind CSS, and Firebase.
-        </span>
+          React, Next.js, Astro, Tailwind CSS, and Firebase.
+        </span>{" "}
+        Passionate about clean UI/UX, scalable architecture, and continuous learning.
         <br />
         <span className="font-semibold text-neutral-900">
           Accomplished Restaurant Chief Operations Officer with over 10 years of
-          experience, a proven ability to led teams of up to 100 people in
-          high-demand environments in coordination with the executive/management
-          team, and a track record of generating monthly revenues exceeding
-          $500,000 USD.
+          experience, a proven ability to lead teams of up to 100 people in
+          high-demand environments alongside executive and management teams,
+          and a track record of generating monthly revenues exceeding $500,000 USD.
         </span>{" "}
-        Passionate about clean UI/UX, scalable architecture, and continuous
-        learning. Known for strong communication skills and the ability to
-        perform under pressure while consistently maintaining high standards of
-        service and operational excellence.
+        Known for strong communication skills and the ability to perform under pressure
+        while consistently maintaining high standards of service and operational excellence.
       </p>
     </section>
   );
