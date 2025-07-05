@@ -3,7 +3,22 @@ import JobExperience from "./JobExperiences";
 const ProfessionalExperience = () => {
   const jobs = [
     {
-      title: "Co-Owner & Operator – Small Restaurant Startup",
+      title: "Development Intern - Web Development Company",
+      company: "Sacbe Transfers",
+      location: "Cancun, Quintana Roo, Mexico",
+      duration: "2024 - 2025",
+      description:
+        "Currently enrolled in a software development internship focused on building and structuring web interfaces using React and Tailwind for a company developing solutions for the tourist transportation sector in Mexico. My main role involves site layout and UI implementation, along with working on small projects such as the discount coupons feature, where I planned the interface and integrated the company-provided API to enable dynamic coupon validation within the booking system. This project also included integration with Google Wallet and Apple Wallet, meeting the technical requirements of both platforms so that users can easily add and store their coupons on their devices. This work contributes to improving the user experience and streamlining the reservation process.",
+      achievements: [
+        "Developed responsive UI components with React and Tailwind",
+        "Integrated dynamic coupon validation using API endpoints",
+        "Enabled Google Wallet and Apple Wallet coupon storage",
+        "Improved booking flow to enhance user experience onsite",
+      ],
+    },
+
+    {
+      title: "Co-Owner & Operator - Small Restaurant Startup",
       company: "Brahma Steakhouse & Lounge",
       location: "Atlanta, Georgia, United States",
       duration: "2024 - 2025",
@@ -17,7 +32,7 @@ const ProfessionalExperience = () => {
       ],
     },
     {
-      title: "Chief of Operations",
+      title: "Chief Operations Officer",
       company: "Cvche & Grill San Ángel – Fine Dining Restaurant",
       location: "Mexico City, Mexico",
       duration: "2023",

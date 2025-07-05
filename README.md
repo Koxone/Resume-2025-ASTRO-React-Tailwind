@@ -17,10 +17,10 @@ Full-stack software engineering student with a strong background in high-level o
 
 ## 💡 Core Competencies
 
-* Frontend & Full-stack Development
-* API Integration & Software Infrastructure
-* Strategic Operations & Team Leadership
-* Cost Analysis & P\&L Management
+- Frontend & Full-stack Development
+- API Integration & Software Infrastructure
+- Strategic Operations & Team Leadership
+- Cost Analysis & P\&L Management
 
 ---
 
@@ -36,7 +36,7 @@ JavaScript (ES2023), React 19, Next.js 14, Astro, Tailwind CSS, Firebase, Git/Gi
 
 Developing and structuring web interfaces using React and Tailwind for the tourism transportation sector, implementing dynamic coupon features with API integration, Google Wallet, and Apple Wallet.
 
-### Chief of Operations – CVCHE (2023)
+### Chief Operations Officer – CVCHE (2023)
 
 Led restaurant launch from construction to full operation, overseeing vendor sourcing, menu development, pricing, cost analysis, and staff management for 50+ team members.
 
@@ -52,25 +52,25 @@ Progressed from waiter to Regional Manager, overseeing 7 restaurants in 3 cities
 
 ## 🎓 Education
 
-* **Full-Stack Engineering Certificate – Western Governors University (2025–2026)**
-* Additional certifications in Version Control, JavaScript, HTML/CSS, Frontend Development.
+- **Full-Stack Engineering Certificate – Western Governors University (2025–2026)**
+- Additional certifications in Version Control, JavaScript, HTML/CSS, Frontend Development.
 
 ---
 
 ## 🌎 Languages
 
-* Spanish (Native)
-* English (Professional Working)
-* Portuguese (Elementary)
+- Spanish (Native)
+- English (Professional Working)
+- Portuguese (Elementary)
 
 ---
 
 ## 📂 Featured Projects
 
-* **Sacbé Tours:** Booking platform for Cancun/Riviera Maya tours.
-* **KoxNotes:** Note-taking app with Firebase sync.
-* **TicTacToe React:** Mobile-friendly scalable game.
-* **Planet Facts:** Educational PWA.
+- **Sacbé Tours:** Booking platform for Cancun/Riviera Maya tours.
+- **KoxNotes:** Note-taking app with Firebase sync.
+- **TicTacToe React:** Mobile-friendly scalable game.
+- **Planet Facts:** Educational PWA.
 
 See full project portfolio at [GitHub](https://github.com/Koxone).
 

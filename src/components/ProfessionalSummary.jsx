@@ -17,7 +17,7 @@ const ProfessionalSummary = () => {
         </span>
         <br />
         <span className="font-semibold text-neutral-900">
-          Accomplished Restaurant Chief of Operations with over 10 years of
+          Accomplished Restaurant Chief Operations Officer with over 10 years of
           experience, a proven ability to led teams of up to 100 people in
           high-demand environments in coordination with the executive/management
           team, and a track record of generating monthly revenues exceeding
