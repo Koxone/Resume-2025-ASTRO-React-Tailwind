@@ -3,7 +3,7 @@ const Header = () => {
     <header className="header">
       <h1 className="name">JUAN CARLOS DE LEON OZUNA</h1>
       <p className="title">
-        Software Engineering Student & Restaurant Operations Manager
+        Frontend Engineer & Restaurant Operations Manager
       </p>
       <div className="contact-info">
         <div className="contact-item">
